@@ -52,7 +52,7 @@ return()=>window.removeEventListener("scroll",scroll)
     <div className='container nav__container'>
     <a href='#' className='mylogo'>
     <img src={logo} />
-    {/* <p><strong>BARANI</strong></p> */}
+    {/* <p><strong>sanjay</strong></p> */}
     </a>
     
     <ul className={navShow?'items':'item'}>
