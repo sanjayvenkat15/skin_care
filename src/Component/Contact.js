@@ -27,20 +27,20 @@ function Contact() {
 <article className='contact__option'>
 <MdOutlineEmail className='contact__option-icon'/>
 <h4>Email</h4>
-<h5>baranees1@gmail.com</h5>
+<h5>sanjayven20@gmail.com</h5>
 <a href='mailto:baranees1@gmail.com'  target='_blank'>Send a message</a>
 </article>
 <article className='contact__option'>
 <RiMessengerLine className='contact__option-icon'/>
 <h4>Messenger</h4>
-<h5>barani_anandh</h5>
+<h5>sanjay</h5>
 <a href='https://www.facebook.com/messages/t/100009984880059'  target='_blank'>Send a message</a>
 </article>
 <article className='contact__option '>
 <BsWhatsapp className='contact__option-icon'/>
 <h4>Whatsapp</h4>
 <h5>+1234567890</h5>
-<a  href="https://api.whatsapp.com/send?phone=919790252548" target="_blank">Send a message</a>
+<a  href="https://api.whatsapp.com/send?phone=919790564130" target="_blank">Send a message</a>
 </article>
 
 
