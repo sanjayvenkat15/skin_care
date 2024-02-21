@@ -363,7 +363,7 @@ Dimethicone: Provides a smooth and silky texture while creating a mattifying eff
 
 	<div className='footer__1'>
 		<div className='logo'>
-			<a href='#'><h3>SmortHome</h3></a>
+			<a href='#'><h3>SmartHome</h3></a>
 		</div>
 		<p>As good as a story is at hitting the reasons why the company
 			 is great, consumers need 
@@ -418,7 +418,7 @@ Dimethicone: Provides a smooth and silky texture while creating a mattifying eff
 		<h4>Contact Us</h4>
 		<p>
 			+01 234 567 8910
-			baranees1@gmail.com
+			sanjayven20@gmail.com
 		</p>
 		<ul className='footer__social'>
 <a href='https://facebook.com/apple' target='_blank'>
